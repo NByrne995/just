@@ -1,0 +1,74 @@
+{
+  "playlistCollection": [
+    {
+      "id": "01",
+      "title": "Irish Hip-Hop",
+      "duration": 15,
+      "songs": [
+        {
+          "id": "04",
+          "title": "Better Days",
+          "artist": "Lawrii Craic",
+          "genre": "Hip-Hop",
+          "duration": 5
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "UK Hip-Hop",
+      "duration": 23,
+      "songs": [
+        {
+          "id": "07",
+          "title": "My Soul",
+          "artist": "Fliptrix",
+          "genre": "Hip-Hop",
+          "duration": 8
+        },
+        {
+          "id": "08",
+          "title": "Sit Back",
+          "artist": "The Mouse Outfit",
+          "genre": "Jazz, Hip-Hop",
+          "duration": 3
+        },
+        {
+          "id": "09",
+          "title": "Tom and Jerry",
+          "artist": "Ocean Wisdom",
+          "genre": "Hip-Hop",
+          "duration": 4
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "US Hip-Hop",
+      "duration": 67,
+      "songs": [
+        {
+          "id": "10",
+          "title": "Infinite",
+          "artist": "Eminem",
+          "genre": "Hip-Hop",
+          "duration": 4
+        },
+        {
+          "id": "11",
+          "title": "Childrens Story",
+          "artist": "Slick Rick",
+          "genre": "Classical",
+          "duration": 5
+        },
+        {
+          "id": "12",
+          "title": "Music and Liquor",
+          "artist": "Wax and EOM",
+          "genre": "Hip-Hop",
+          "duration": 6
+        }
+      ]
+    }
+  ]
+}
